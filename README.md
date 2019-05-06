@@ -5,3 +5,4 @@
 - PAT(Programming Ability Test)是计算机程序设计能力考试
 ### 关于
 - 本仓库是我个人做PTA练习题的题解 欢迎各位指正批评
+- 运行环境 C++14
